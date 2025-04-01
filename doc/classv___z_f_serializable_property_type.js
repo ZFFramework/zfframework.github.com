@@ -1,0 +1,25 @@
+var classv___z_f_serializable_property_type =
+[
+    [ "zfsuper", "classv___z_f_serializable_property_type.html#afd495e3a8787b023a32cf32795b440e5", null ],
+    [ "zfself", "classv___z_f_serializable_property_type.html#a09d9b14a6e912b29445333874d85b1eb", null ],
+    [ "classData", "classv___z_f_serializable_property_type.html#a82f82b40013e2bbdb9dec9daf2b90267", null ],
+    [ "objectOnInit", "classv___z_f_serializable_property_type.html#aa051d3548d495ef7e6f2ab4379e04efe", null ],
+    [ "objectOnInit", "classv___z_f_serializable_property_type.html#afd2ea06afbc7d2e33f42aa79f5317baf", null ],
+    [ "objectInfoImpl", "classv___z_f_serializable_property_type.html#ab4cbe5d3b94a90fadaaf0ae9ff7cd9ae", null ],
+    [ "objectHashImpl", "classv___z_f_serializable_property_type.html#a28b78ff5c214feb842739f493e54b53d", null ],
+    [ "objectCompareImpl", "classv___z_f_serializable_property_type.html#a7e9f91655e762be0e64964019d13b9ee", null ],
+    [ "wrappedValueOnAssign", "classv___z_f_serializable_property_type.html#aaae60fc509f8967c778abc1c069d60d1", null ],
+    [ "zfvTypeId", "classv___z_f_serializable_property_type.html#accb18a9c92ba3b356bc0f226203194b0", null ],
+    [ "wrappedValue", "classv___z_f_serializable_property_type.html#ad4bba4c016feeecc79707e6793b87ea0", null ],
+    [ "wrappedValue", "classv___z_f_serializable_property_type.html#ab2f18c320a39474d67c9b6d5f19610df", null ],
+    [ "wrappedValueCopy", "classv___z_f_serializable_property_type.html#ad3ac851e11731455377d392e6d6b78b4", null ],
+    [ "zfvReset", "classv___z_f_serializable_property_type.html#adee381ec2925ce8ce1f0c11e2aca1839", null ],
+    [ "zfvIsInit", "classv___z_f_serializable_property_type.html#ade907e863c18422410f84598c7e5b19a", null ],
+    [ "wrappedValuePreferStringConverter", "classv___z_f_serializable_property_type.html#af9a9ebac19dd265f6ae727d35b56f7af", null ],
+    [ "zfvFromData", "classv___z_f_serializable_property_type.html#abed73832b8419847c262a28075436154", null ],
+    [ "zfvToData", "classv___z_f_serializable_property_type.html#a71f368ae40dc7981fa396602612e096a", null ],
+    [ "zfvFromString", "classv___z_f_serializable_property_type.html#acd06a7143b26b6d2647d883298e31ad4", null ],
+    [ "zfvToString", "classv___z_f_serializable_property_type.html#a4bd5a24ac947dced2a03dafa6212b4f8", null ],
+    [ "progressOnUpdate", "classv___z_f_serializable_property_type.html#ad39749ab01942d3b4735a6d55b024946", null ],
+    [ "zfv", "classv___z_f_serializable_property_type.html#aa649964323f407aa7d19c04bbe7e98aa", null ]
+];
