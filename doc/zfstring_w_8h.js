@@ -1,0 +1,25 @@
+var zfstring_w_8h =
+[
+    [ "v_ZFStringEncoding", "classv___z_f_string_encoding.html", "classv___z_f_string_encoding" ],
+    [ "zfcharW", "zfstring_w_8h.html#adc02cecd55ab505d3f95cf4571bc6249", null ],
+    [ "zfstringW", "zfstring_w_8h.html#a7e2095e298fd0098e145c8245c9a3d66", null ],
+    [ "ZFStringEncoding", "zfstring_w_8h.html#acfb2c619c23b2b148e3f06b9070bec05", null ],
+    [ "ZFStringEncodingFromStringT", "zfstring_w_8h.html#a6a847765c875253e270000d2d472308c", null ],
+    [ "ZFStringEncodingToStringT", "zfstring_w_8h.html#a53c56a97f5c975edaccf266b9f095a2a", null ],
+    [ "ZFStringEncodingToString", "zfstring_w_8h.html#a6670b34c643345131fdce84206d12efc", null ],
+    [ "ZFTypeId_ZFStringEncoding", "zfstring_w_8h.html#ac188af31ae27153390d025d42d5dc989", null ],
+    [ "ZFStringEncodingFromDataT", "zfstring_w_8h.html#a424f835b601ab0e5ec751084e363c4d1", null ],
+    [ "ZFStringEncodingFromData", "zfstring_w_8h.html#a0aee2abbb33617cb179dddc148828309", null ],
+    [ "ZFStringEncodingToDataT", "zfstring_w_8h.html#a27014cd3db986915241f87f5c6d35772", null ],
+    [ "ZFStringEncodingToData", "zfstring_w_8h.html#a4f873b4bbce0718ada9cdfe466a72566", null ],
+    [ "ZFStringEncodingFromStringT", "zfstring_w_8h.html#ad645cab7f93b6e16513879599c0254a3", null ],
+    [ "ZFStringEncodingFromString", "zfstring_w_8h.html#ae3e38b1629ce283c85d33dc1a8c0179f", null ],
+    [ "ZFStringEncodingToStringT", "zfstring_w_8h.html#a57b67f749a853f29f30715650ec07c63", null ],
+    [ "ZFStringEncodingToString", "zfstring_w_8h.html#abccfeb79ec29b80850e85c0cba3cbf70", null ],
+    [ "zfstringToUTF8", "zfstring_w_8h.html#a98f25fd6655b82d18b10a605b7f86732", null ],
+    [ "zfstringToUTF8", "zfstring_w_8h.html#a068b80dc920ed5d5e74e7420c1d0f45d", null ],
+    [ "zfstringToUTF16", "zfstring_w_8h.html#aa853596daef9d4a6bc133eb6a3186fa5", null ],
+    [ "zfstringToUTF16", "zfstring_w_8h.html#a34a2201db19f40f2b69be7e453d82c17", null ],
+    [ "zfstringToUTF16BE", "zfstring_w_8h.html#a578a84200c26d649e84e97a751ff12ba", null ],
+    [ "zfstringToUTF16BE", "zfstring_w_8h.html#a3ee9b6313d30b3ac20e33e49a9fdfd6a", null ]
+];
