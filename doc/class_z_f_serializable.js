@@ -1,0 +1,28 @@
+var class_z_f_serializable =
+[
+    [ "zfsuper", "class_z_f_serializable.html#ae134465818f010c1c7db6997280def73", null ],
+    [ "zfself", "class_z_f_serializable.html#a4034e9e347692fb9ed8a9e8119de6d7c", null ],
+    [ "serializable", "class_z_f_serializable.html#a53b8602753fae6425a2a5a3d9c4ebcd9", null ],
+    [ "serializeFromData", "class_z_f_serializable.html#ae999a333c6e25fdd0ceb3f3314f473a1", null ],
+    [ "serializeToData", "class_z_f_serializable.html#af3635723c1641e85e5d1d84557039603", null ],
+    [ "serializeFromString", "class_z_f_serializable.html#af316deaf4ae0d5e4e96167d356be1716", null ],
+    [ "serializeToString", "class_z_f_serializable.html#a2f40f6dc482d303601e33a2bda71f33d", null ],
+    [ "serializablePropertyTypeGetAll", "class_z_f_serializable.html#a59ec6199027fc9b20ac22dbb984f38b6", null ],
+    [ "serializablePropertyTypeInfo", "class_z_f_serializable.html#a09a4924c2378e33972c100844e0861ad", null ],
+    [ "serializableGetAllSerializablePropertyT", "class_z_f_serializable.html#aa95d8a1d75fb7aed67fce19877a60cb2", null ],
+    [ "serializableGetAllSerializableProperty", "class_z_f_serializable.html#aaab627edfd75b630076cb775f55921e7", null ],
+    [ "serializableGetAllSerializableEmbededPropertyT", "class_z_f_serializable.html#a190267314bc16189c42643b9569c6cee", null ],
+    [ "serializableGetAllSerializableEmbededProperty", "class_z_f_serializable.html#a4f3610e979ffc16bbb99d791cdca72e7", null ],
+    [ "serializableOnCheckPropertyType", "class_z_f_serializable.html#a7fff0c0a888645676a8ad46295c2642e", null ],
+    [ "serializableOnCheck", "class_z_f_serializable.html#ae7f0c55dad013a8248738ff19f4b3df8", null ],
+    [ "serializableOnSerializeFromData", "class_z_f_serializable.html#aa124e22f4d671fbd4721a7c9d5ee219d", null ],
+    [ "serializableOnSerializeToData", "class_z_f_serializable.html#acaec15c4023161d5477bd9bfabc5ad1f", null ],
+    [ "serializableOnSerializePropertyFromData", "class_z_f_serializable.html#a707b3678e0b5fc7f026986f20045a54c", null ],
+    [ "serializableOnSerializePropertyToData", "class_z_f_serializable.html#aa94e798308963862919bdafc842338c2", null ],
+    [ "serializableOnSerializeEmbededPropertyFromData", "class_z_f_serializable.html#a7d53edba4dd014345f9d02243ce55f08", null ],
+    [ "serializableOnSerializeEmbededPropertyToData", "class_z_f_serializable.html#a279afa0483728bc73294e0dc9930a1dc", null ],
+    [ "serializableOnSerializeFromString", "class_z_f_serializable.html#a1ef5b6b6fdef8d5f9adc1fdad9e0eb34", null ],
+    [ "serializableOnSerializeToString", "class_z_f_serializable.html#aa2ebbd7d418f05e8d0c12ea98b613670", null ],
+    [ "serializableInfoT", "class_z_f_serializable.html#afa99dd70aec13da13bcff1bba9b7d569", null ],
+    [ "serializableInfo", "class_z_f_serializable.html#a558c74818922638095911eed3c735839", null ]
+];
