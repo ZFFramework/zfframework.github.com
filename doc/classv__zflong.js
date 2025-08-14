@@ -1,0 +1,25 @@
+var classv__zflong =
+[
+    [ "zfsuper", "classv__zflong.html#a7950c6594b12820e505f1ad720a84332", null ],
+    [ "zfself", "classv__zflong.html#ab82e3e1d602742b32572b221e9f09a79", null ],
+    [ "classData", "classv__zflong.html#abdc4b737f7a9dfb83020efd00bff0a31", null ],
+    [ "objectOnInit", "classv__zflong.html#a97450626b47ae3988622453c67d0d2c6", null ],
+    [ "objectOnInit", "classv__zflong.html#a96da5bc00eb87d8fada1d625fdbed1ce", null ],
+    [ "objectInfoImpl", "classv__zflong.html#af722ea592a6a6c9098de75bc47d88c58", null ],
+    [ "objectHashImpl", "classv__zflong.html#a900bbb0306a515444f0ff55c5eb9c80a", null ],
+    [ "objectCompareImpl", "classv__zflong.html#a910475c3f7d10cf56def069be77e0eaf", null ],
+    [ "wrappedValueOnAssign", "classv__zflong.html#a387cb04664d80b43aff6074e3f7cb65e", null ],
+    [ "zfvTypeId", "classv__zflong.html#a5d74bfeb2c19f86376b5e0c5251f5161", null ],
+    [ "wrappedValue", "classv__zflong.html#a576e2ff22b5da9b8b4d5f6c625f6a85c", null ],
+    [ "wrappedValue", "classv__zflong.html#ad2c1f52ee080f3758836f8c9c89efcd2", null ],
+    [ "wrappedValueCopy", "classv__zflong.html#ac38b47e3f47ca422165ae5e94b164cc8", null ],
+    [ "zfvReset", "classv__zflong.html#a7803af12ef78d19d109489349bd47352", null ],
+    [ "zfvIsInit", "classv__zflong.html#af76de249fb00c330480c4ba333f6fa9a", null ],
+    [ "wrappedValuePreferStringConverter", "classv__zflong.html#a71fb9f101988541c06e1adbc5b8b6f0b", null ],
+    [ "zfvFromData", "classv__zflong.html#a05cb58d9c0af97c9c7a0cc7f0d7eb750", null ],
+    [ "zfvToData", "classv__zflong.html#a58538265f6b8a1225e09535e6953c1fe", null ],
+    [ "zfvFromString", "classv__zflong.html#ad5bf9e920039069b939f81da9d394379", null ],
+    [ "zfvToString", "classv__zflong.html#a9f31011e14a33a96bb13733eda7a1f23", null ],
+    [ "progressOnUpdate", "classv__zflong.html#ac765c61be57c6d33209c922955b4ba20", null ],
+    [ "zfv", "classv__zflong.html#ad62a2eea1a97b12d1b5bac9f6e372993", null ]
+];
