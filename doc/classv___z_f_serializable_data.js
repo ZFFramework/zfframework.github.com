@@ -1,0 +1,25 @@
+var classv___z_f_serializable_data =
+[
+    [ "zfsuper", "classv___z_f_serializable_data.html#a4b4caa9b0f80695fe39a7c4fa8491d7b", null ],
+    [ "zfself", "classv___z_f_serializable_data.html#af02ac4e273a8a0e84f41238fe821d389", null ],
+    [ "classData", "classv___z_f_serializable_data.html#a3747024dee597d5ad3f6be195f40b13c", null ],
+    [ "objectOnInit", "classv___z_f_serializable_data.html#a8ef0f1f418926f12263ac223842e8182", null ],
+    [ "objectOnInit", "classv___z_f_serializable_data.html#ad3c1aecb4627d311593f9db0a29b0822", null ],
+    [ "objectInfoImpl", "classv___z_f_serializable_data.html#a44ef836ea6c242bd9b9bb5ce49d6d3a8", null ],
+    [ "objectHashImpl", "classv___z_f_serializable_data.html#a88bbec41b9e2d29217b3a79dce0bb43b", null ],
+    [ "objectCompareImpl", "classv___z_f_serializable_data.html#afd24d61eba413488c21c7c20bfd875dd", null ],
+    [ "wrappedValueOnAssign", "classv___z_f_serializable_data.html#a6539a1172dcbfa4e3a538c9af9e7fbe8", null ],
+    [ "zfvTypeId", "classv___z_f_serializable_data.html#af4732216061700d3216e5d09ff48212a", null ],
+    [ "wrappedValue", "classv___z_f_serializable_data.html#a0ec02332128d0e4ee9a1b3fa1c8fd94e", null ],
+    [ "wrappedValue", "classv___z_f_serializable_data.html#ad3c5c385b6525a7c98c59e189324b20b", null ],
+    [ "wrappedValueCopy", "classv___z_f_serializable_data.html#a0dc5c771a43cd87fd1b3086c6aa4119c", null ],
+    [ "zfvReset", "classv___z_f_serializable_data.html#a503b9910104ab8572c2cc37d77b542c2", null ],
+    [ "zfvIsInit", "classv___z_f_serializable_data.html#a1da4123fa80c10ce49594c73f85807a8", null ],
+    [ "wrappedValuePreferStringConverter", "classv___z_f_serializable_data.html#acc027de56eab47ca5ddf881d973e8228", null ],
+    [ "zfvFromData", "classv___z_f_serializable_data.html#aefbb702c2fb2d4522b6141c2e8b0021d", null ],
+    [ "zfvToData", "classv___z_f_serializable_data.html#afad21158ce7ba7e0c33b98afa2768d90", null ],
+    [ "zfvFromString", "classv___z_f_serializable_data.html#a79da937b048dae7189931d45591c36bf", null ],
+    [ "zfvToString", "classv___z_f_serializable_data.html#ad2095e346bb07730fd0abc0065b95a4b", null ],
+    [ "progressOnUpdate", "classv___z_f_serializable_data.html#a13d8e11c31804e3090cd83cdef7f9915", null ],
+    [ "zfv", "classv___z_f_serializable_data.html#a80b609c4abf53c619c4e75323814c525", null ]
+];
