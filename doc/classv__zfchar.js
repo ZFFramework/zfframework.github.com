@@ -1,0 +1,25 @@
+var classv__zfchar =
+[
+    [ "zfsuper", "classv__zfchar.html#ac9e915ca92f40ec599d7d60ba938db38", null ],
+    [ "zfself", "classv__zfchar.html#a7dd800d25e49c6d7fde635fd035b3389", null ],
+    [ "classData", "classv__zfchar.html#a309ddab649681b2426cfcc1dc38fd3d4", null ],
+    [ "objectOnInit", "classv__zfchar.html#a1ff8ab0be14d6db2f90e9aa2a72a3336", null ],
+    [ "objectOnInit", "classv__zfchar.html#aa153818efe2e40d5acc58b1a38cbda87", null ],
+    [ "objectInfoImpl", "classv__zfchar.html#ae18bb7a1310e84bb5ec8ee3dc82a9daa", null ],
+    [ "objectHashImpl", "classv__zfchar.html#ac1884e76d49c8f2746509ccafabbc567", null ],
+    [ "objectCompareImpl", "classv__zfchar.html#ac0e47d87a45795eb258e592795c297c7", null ],
+    [ "wrappedValueOnAssign", "classv__zfchar.html#a4858e2183f787cf46e205b5a99a8904e", null ],
+    [ "zfvTypeId", "classv__zfchar.html#a46221206c2b55e9ace9f45c6aed9de81", null ],
+    [ "wrappedValue", "classv__zfchar.html#ac227062085ac2a6035aafb5c99f73765", null ],
+    [ "wrappedValue", "classv__zfchar.html#af70d383e8d14dc0cc1ae9976ce76bf1c", null ],
+    [ "wrappedValueCopy", "classv__zfchar.html#ac0105bfcc5f714bde5eaff3c973e5f96", null ],
+    [ "zfvReset", "classv__zfchar.html#afc83a45f9bed24677de8c0eea04baadb", null ],
+    [ "zfvIsInit", "classv__zfchar.html#a12ae0551e58cc54b4c9e0db51ef72d85", null ],
+    [ "wrappedValuePreferStringConverter", "classv__zfchar.html#ab2576238037e71c63ef709e0adbfc665", null ],
+    [ "zfvFromData", "classv__zfchar.html#ae2c0d4a8d68324f9563c434e5ca83240", null ],
+    [ "zfvToData", "classv__zfchar.html#ae84bccfe7e81eb5be689999d071d0e2d", null ],
+    [ "zfvFromString", "classv__zfchar.html#a06887d7a7f1484266aa7966856d67254", null ],
+    [ "zfvToString", "classv__zfchar.html#a77d7f9381ac053ace13dfa17e1bf4f79", null ],
+    [ "progressOnUpdate", "classv__zfchar.html#a1625c4dcd5ee7f44d0f40d8ea0218b30", null ],
+    [ "zfv", "classv__zfchar.html#a71699510bfd5ec3a8dd7cb995a1d3ecc", null ]
+];
