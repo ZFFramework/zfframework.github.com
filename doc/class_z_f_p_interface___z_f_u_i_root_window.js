@@ -1,0 +1,26 @@
+var class_z_f_p_interface___z_f_u_i_root_window =
+[
+    [ "zfsuper", "class_z_f_p_interface___z_f_u_i_root_window.html#a5b4e5f150c2c91d64de46a1449e2bd43", null ],
+    [ "zfself", "class_z_f_p_interface___z_f_u_i_root_window.html#ab91821b4ec951c0e4876958400fc2f61", null ],
+    [ "protocolName", "class_z_f_p_interface___z_f_u_i_root_window.html#a5431e2d4b9cb8240917faec08aee37c7", null ],
+    [ "mainWindow", "class_z_f_p_interface___z_f_u_i_root_window.html#a0b72dfd8fb78d8b9b22545fa1fd3562a", null ],
+    [ "mainWindowOnCleanup", "class_z_f_p_interface___z_f_u_i_root_window.html#aeb1550fecebd52f82bcde47744113598", null ],
+    [ "mainWindowOnDestroy", "class_z_f_p_interface___z_f_u_i_root_window.html#a063f527df82a43623d29651eb468a362", null ],
+    [ "nativeWindowOnCleanup", "class_z_f_p_interface___z_f_u_i_root_window.html#af735d7315a3f9eb07d2ba25793039619", null ],
+    [ "nativeWindowRootViewOnAdd", "class_z_f_p_interface___z_f_u_i_root_window.html#a808b7212b5d9dea0dd79a07cc65132fa", null ],
+    [ "nativeWindowRootViewOnRemove", "class_z_f_p_interface___z_f_u_i_root_window.html#a644d535680c12a76c348e0a05959686a", null ],
+    [ "modalWindowShow", "class_z_f_p_interface___z_f_u_i_root_window.html#a26bb2d21ffab502865f2539f95278386", null ],
+    [ "modalWindowHide", "class_z_f_p_interface___z_f_u_i_root_window.html#ab05f9b1000ffa774f14570b7d8feff1e", null ],
+    [ "layoutParamOnInit", "class_z_f_p_interface___z_f_u_i_root_window.html#a295fe6770b3cbe8e6236c75510932c3e", null ],
+    [ "layoutParamOnUpdate", "class_z_f_p_interface___z_f_u_i_root_window.html#aacaf04a1c649015cd41aebfc93176b71", null ],
+    [ "windowOrientation", "class_z_f_p_interface___z_f_u_i_root_window.html#ade25e47ccd9d6cead38de7058fa3d894", null ],
+    [ "windowOrientationFlags", "class_z_f_p_interface___z_f_u_i_root_window.html#a693634d8447ded9b8ad688b966861caa", null ],
+    [ "windowColor", "class_z_f_p_interface___z_f_u_i_root_window.html#ae02cde6069c6acc88cd1c61327560215", null ],
+    [ "notifyMeasureWindow", "class_z_f_p_interface___z_f_u_i_root_window.html#a17ca5f90c4e8cce5de5ae85662b64f32", null ],
+    [ "notifyOnCreate", "class_z_f_p_interface___z_f_u_i_root_window.html#a3d50ea082de5bbc47943ea2a3f5e629c", null ],
+    [ "notifyOnDestroy", "class_z_f_p_interface___z_f_u_i_root_window.html#af1c412e1865519946cd2f16c01f72353", null ],
+    [ "notifyOnResume", "class_z_f_p_interface___z_f_u_i_root_window.html#aa470b78b42fd418d48b34fed98a68756", null ],
+    [ "notifyOnPause", "class_z_f_p_interface___z_f_u_i_root_window.html#aee2f85daaf45f808ac2b34e0e1113634", null ],
+    [ "notifyOnRotate", "class_z_f_p_interface___z_f_u_i_root_window.html#a3da91316f11ee26c107dcc58e9aba749", null ],
+    [ "notifyKeyEvent", "class_z_f_p_interface___z_f_u_i_root_window.html#af3c0c0441c59f8d9308fa142658b5c2c", null ]
+];
