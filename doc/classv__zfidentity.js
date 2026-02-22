@@ -1,0 +1,25 @@
+var classv__zfidentity =
+[
+    [ "zfsuper", "classv__zfidentity.html#ac0fe82789f9f4308df22b8d9938af57b", null ],
+    [ "zfself", "classv__zfidentity.html#a46c5637add204e088f4dabf4e94b7181", null ],
+    [ "classData", "classv__zfidentity.html#a61270dda48befe8fb4ad5535b8c438e5", null ],
+    [ "objectOnInit", "classv__zfidentity.html#ae7fd154451720c265125aa55179f8d45", null ],
+    [ "objectOnInit", "classv__zfidentity.html#ab6dc2aa5d51ad22792f309019de02a6a", null ],
+    [ "objectInfoImpl", "classv__zfidentity.html#ac58270fea4a6d95ab7fe16e1a53cb3b0", null ],
+    [ "objectHashImpl", "classv__zfidentity.html#a077fb37326fc0ef0b1832b11c0d60952", null ],
+    [ "objectCompareImpl", "classv__zfidentity.html#a9e2a03aa7f600d75219fafe5027cdcc0", null ],
+    [ "wrappedValueOnAssign", "classv__zfidentity.html#a189ac9b828c25ff99a8e63e7adbd350c", null ],
+    [ "zfvTypeId", "classv__zfidentity.html#a019b069755df7a26f31a14f1e142e362", null ],
+    [ "wrappedValue", "classv__zfidentity.html#aeecc987f4f8a16ccb27b3e5ea2e31f6b", null ],
+    [ "wrappedValue", "classv__zfidentity.html#a829686a3a6ca35fd1f32c9525f48973a", null ],
+    [ "wrappedValueCopy", "classv__zfidentity.html#aa30aa22df7d9d5bec33afea9e0552d00", null ],
+    [ "zfvReset", "classv__zfidentity.html#a0850e3e05d453241acc7e4e6c4b3f4f9", null ],
+    [ "zfvIsInit", "classv__zfidentity.html#a97f5e5380a3510afcab7e275a3e220f1", null ],
+    [ "wrappedValuePreferStringConverter", "classv__zfidentity.html#a905f8abde67dbac0e920f4088d07811f", null ],
+    [ "zfvFromData", "classv__zfidentity.html#aa1ed460db6912dce4d0e0d722d269bd6", null ],
+    [ "zfvToData", "classv__zfidentity.html#a6c3b78017c2f504f3ee39dab45834288", null ],
+    [ "zfvFromString", "classv__zfidentity.html#a444efbc2df4421f0fade32ee80f450d1", null ],
+    [ "zfvToString", "classv__zfidentity.html#a7d825151a5eb7ff97ce5098479b5f396", null ],
+    [ "progressOnUpdate", "classv__zfidentity.html#a37733c4d6b67fb63b7e70a8ad7df762d", null ],
+    [ "zfv", "classv__zfidentity.html#a001c4ccc043339ea6ddb8f5a8200e358", null ]
+];
