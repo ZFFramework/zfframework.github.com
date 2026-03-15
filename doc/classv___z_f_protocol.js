@@ -1,0 +1,25 @@
+var classv___z_f_protocol =
+[
+    [ "zfsuper", "classv___z_f_protocol.html#aada2f848f73e20bce928115bd16358ed", null ],
+    [ "zfself", "classv___z_f_protocol.html#af57194b1cc5ce15462a00e3573d9ba07", null ],
+    [ "classData", "classv___z_f_protocol.html#a45d95ef806fb889839eb5019f0b71d38", null ],
+    [ "objectOnInit", "classv___z_f_protocol.html#a479d856c1095ea8daca3951d1725c3cc", null ],
+    [ "objectOnInit", "classv___z_f_protocol.html#acdd4e4e37a0a46b8566d234b1b6caa13", null ],
+    [ "objectInfoImpl", "classv___z_f_protocol.html#a06dc016f0a0ce00a177310e64975e578", null ],
+    [ "objectHashImpl", "classv___z_f_protocol.html#ab91c15cedde8601d09e6c3dc8178a7fc", null ],
+    [ "objectCompareImpl", "classv___z_f_protocol.html#af56e6e1633e65a61828390393e9c9660", null ],
+    [ "wrappedValueOnAssign", "classv___z_f_protocol.html#a6c5f05202d802449fbe72d08aec6b722", null ],
+    [ "zfvTypeId", "classv___z_f_protocol.html#a92044a623d66f94dc33f82050442fa59", null ],
+    [ "wrappedValue", "classv___z_f_protocol.html#a61580616e850722e261deab053fa376e", null ],
+    [ "wrappedValue", "classv___z_f_protocol.html#a84c32b795e2bffadf5c65e1ca071690b", null ],
+    [ "wrappedValueCopy", "classv___z_f_protocol.html#a408bbbdb389430224ad38c8c0b7fd3ff", null ],
+    [ "zfvReset", "classv___z_f_protocol.html#abe4caadce1156745c9c597a91f67aa55", null ],
+    [ "zfvIsInit", "classv___z_f_protocol.html#ac63a4639ffe0f555c4e17bf7ad764b5e", null ],
+    [ "wrappedValuePreferStringConverter", "classv___z_f_protocol.html#a9fbee6a1834a2d5b0880c77cdd2436e3", null ],
+    [ "zfvFromData", "classv___z_f_protocol.html#abcb97e48fc817c2b6db74e8369d63c15", null ],
+    [ "zfvToData", "classv___z_f_protocol.html#a612fc30a6a1805a7a14a12ea406353ad", null ],
+    [ "zfvFromString", "classv___z_f_protocol.html#af075d83dc7d38f9350ac5dbc27d7b00b", null ],
+    [ "zfvToString", "classv___z_f_protocol.html#a63330329dddfcee91eb8ac67a57e79e6", null ],
+    [ "progressOnUpdate", "classv___z_f_protocol.html#adac41d2aea85342c7df861c3d9b21d0b", null ],
+    [ "zfv", "classv___z_f_protocol.html#a3fc2a3ab4d76c09af1cc7aef5a67c197", null ]
+];
