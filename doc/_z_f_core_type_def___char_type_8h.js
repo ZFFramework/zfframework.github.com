@@ -1,0 +1,25 @@
+var _z_f_core_type_def___char_type_8h =
+[
+    [ "zfcharIsLetterLowerCase", "_z_f_core_type_def___char_type_8h.html#aa317666270949fc7785491019572f100", null ],
+    [ "zfcharIsLetterUpperCase", "_z_f_core_type_def___char_type_8h.html#a27664c67c1f01051e2d503bb2245ae14", null ],
+    [ "zfcharIsNumber", "_z_f_core_type_def___char_type_8h.html#a9a4b657c3b9776dd24ba766430ded20a", null ],
+    [ "zfcharIsHexNumberLowerCase", "_z_f_core_type_def___char_type_8h.html#a484adc332a1e0d9b3805f8af884f2478", null ],
+    [ "zfcharIsHexNumberUpperCase", "_z_f_core_type_def___char_type_8h.html#a9b7ae630f74005435784e5dbcf1e4c06", null ],
+    [ "zfcharIsHexNumber", "_z_f_core_type_def___char_type_8h.html#a5baef6509b28b9529849e48188f5a346", null ],
+    [ "zfcharIsSpace", "_z_f_core_type_def___char_type_8h.html#abcbdfc36fc50c275356cb2444ad7d8b9", null ],
+    [ "zfcharIsEndl", "_z_f_core_type_def___char_type_8h.html#ac92b5e0dea241af969fa3967eb115971", null ],
+    [ "zfcharSkipSpace", "_z_f_core_type_def___char_type_8h.html#a3947039be360560fe263c8f4b0be9706", null ],
+    [ "zfcharSkipEndl", "_z_f_core_type_def___char_type_8h.html#a403429d4f97b8cfbc810c3bcc9571709", null ],
+    [ "zfcharSkipSpaceAndEndl", "_z_f_core_type_def___char_type_8h.html#ab285fa6aba0c5f2aa5695f4670d28008", null ],
+    [ "zfchar", "_z_f_core_type_def___char_type_8h.html#aae91c42d33bfa0346478038b37ce2764", null ],
+    [ "zft_zfchar", "_z_f_core_type_def___char_type_8h.html#a8de3111b88572520ff425ee4e3052492", null ],
+    [ "zfcharGetSize", "_z_f_core_type_def___char_type_8h.html#afcef2e7ff59742edf61de784ac90d8f5", null ],
+    [ "zfcharMoveNext", "_z_f_core_type_def___char_type_8h.html#a4bc7e3daa8e55dfc234b50fd59aa02bf", null ],
+    [ "zfcharAppendAndMoveNext", "_z_f_core_type_def___char_type_8h.html#aae8739ab51aed471eeb4791b15f99f56", null ],
+    [ "zfslen", "_z_f_core_type_def___char_type_8h.html#a1d6ab124b50c6425c653c69137020183", null ],
+    [ "zfscpy", "_z_f_core_type_def___char_type_8h.html#aa62aa2d538bc2b7ac41f4c5931ba222b", null ],
+    [ "zfscmp", "_z_f_core_type_def___char_type_8h.html#af8719a492ddd9ae9b05452fd7ed8e342", null ],
+    [ "zfsicmp", "_z_f_core_type_def___char_type_8h.html#a62629b81a85e65a03ad31b1c56ce2033", null ],
+    [ "zfsncmp", "_z_f_core_type_def___char_type_8h.html#addb5fe333f13c2add6dc01f456919889", null ],
+    [ "zfsnicmp", "_z_f_core_type_def___char_type_8h.html#afb1cd457a471ed5c8df465bfbacf7395", null ]
+];
